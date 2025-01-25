@@ -65,13 +65,3 @@ This document presents a comprehensive analysis of GoodCabs' operations over a s
 - Cities like Jaipur, Kochi, and Mysore maintain ratings above **8.0**, while Vadodara, Surat, and Lucknow show concerning ratings below **6.5**.
 
 This analysis provides insights into operational performance, passenger trends, revenue generation, and target achievements for GoodCabs during the first half of 2024.
-
-Citations:
-[1] https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-goods-services-exports-likely-to-cross-usd-800-bn-in-2024-gtri/articleshow/116836590.cms
-[2] https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method
-[3] https://mavenanalytics.io/project/22745
-[4] https://stackoverflow.com/questions/9331281/how-can-i-test-what-my-readme-md-file-will-look-like-before-committing-to-github
-[5] https://www.novypro.com/project/goodcabs-market-study-dashboard--analysis
-[6] https://superuser.com/questions/689056/how-can-i-convert-github-flavored-markdown-to-a-pdf/715340
-[7] https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis
-[8] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
