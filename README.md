@@ -1,5 +1,7 @@
 # RPC13: GoodCabs Operations Analysis (Jan - Jun 2024)
 
+🔗 **[View Dashboard in Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2Q2OWQzMGItNmFmZC00NjY5LWFjYzgtMzc0YTU2YzBjZmVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=67308d552308467566b3)**  
+
 ## Overview
 This document presents a comprehensive analysis of GoodCabs' operations over a six-month period from January to June 2024.
 
